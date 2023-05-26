@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\config",
+    "\\controllers",
+    "\\models",
+    "\\views",
+    "\\views\\layouts",
+    "\\views\\site",
+    "\\web",
+    "\\web\\assets",
+    "\\web\\css"
+  ],
+  "SelectedNode": "\\models\\LoginForm.php",
+  "PreviewInSolutionExplorer": false
+}
